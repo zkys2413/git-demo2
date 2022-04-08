@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println(" hello git-idea!1");
         System.out.println(" hello git-idea!2");
         System.out.println(" hello git-idea!3");
+        System.out.println(" hello git-idea!4");
     }
 }
